@@ -3,7 +3,7 @@
 body{
 	background-color: #181818;
 	color: #ffffffaf;
-	font-family: "Archivo Black", Arial, sans-serif;
+	font-family: "Rubik Mono One", Arial, sans-serif;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
@@ -19,7 +19,7 @@ body{
 }
 
 h1{
-	font-size: 3.5rem;
+	font-size: 2.2rem;
 	color: #ffffffa7;
 	margin-bottom: 8vh;
 }
@@ -61,13 +61,14 @@ h1{
 }
 
 #resultDisplay{
-	font-size: 5rem;
+	font-size: 3.5rem;
 	margin-top: 4vh;
 	color: #ffffffd1;
 	margin-bottom: 4vh;
 }
 .score__display{
 	font-size: 2rem;
+	font-family: "Rubik", Arial, sans-serif;
 }
 .green-text, #playerScoreDisplay{
 	color: hsl(120, 100%, 30%) !important;
